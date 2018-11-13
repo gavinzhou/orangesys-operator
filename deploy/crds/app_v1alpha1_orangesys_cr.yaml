@@ -1,0 +1,7 @@
+apiVersion: app.orangesys.io/v1alpha1
+kind: Orangesys
+metadata:
+  name: example-orangesys
+spec:
+  # Add fields here
+  size: 3
